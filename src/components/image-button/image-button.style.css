@@ -1,0 +1,12 @@
+.image-button {
+  background-color: transparent;
+  margin: 5px;
+  padding: 5px;
+  border: none;
+  transition: transform .2s;
+}
+
+.image-button:hover {
+  cursor: pointer;
+  transform: scale(1.1);
+}
